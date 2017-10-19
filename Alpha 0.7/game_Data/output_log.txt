@@ -1,0 +1,45 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTS 450 (ID=0xdc4)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\UNITY PROJECTS\HungerGames\Builds\Alpha 0.6\game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.053 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.797255 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1f94 -> priority: 1 
+  Thread -> id: 1638 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.578718 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1129.
+Total: 67.524275 ms (FindLiveObjects: 0.112346 ms CreateObjectMapping: 0.053540 ms MarkObjects: 66.725560 ms  DeleteObjects: 0.631510 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 45.316944 ms
+
+Unloading 371 unused Assets to reduce memory usage. Loaded Objects now: 588.
+Total: 6.803992 ms (FindLiveObjects: 0.139116 ms CreateObjectMapping: 0.046518 ms MarkObjects: 0.490638 ms  DeleteObjects: 6.126402 ms)
+
